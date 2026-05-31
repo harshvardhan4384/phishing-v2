@@ -1,8 +1,3 @@
-// ============================================================
-// 🛡️  PHISHING DETECTOR — server.js
-//     Run with:  node server.js
-//     Needs:     .env file with API keys (see bottom of file)
-// ============================================================
 
 require("dotenv").config();
 

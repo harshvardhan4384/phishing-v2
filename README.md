@@ -1,12 +1,14 @@
 # phishing v2
 Advance email phishing detector browser extension 
 
- for install:
+ ## Installation
 
-   1. git clone https://github.com/harshvardhan4384/phishing-v2.git
-   2. cd backend 
-   3. npm install   
-   4. npm run start
+```bash
+git clone https://github.com/harshvardhan4384/phishing-v2.git
+cd backend
+npm install
+npm run start
+```
 
 make sure you create .env file in backend folder 
 in .env add api key like this:

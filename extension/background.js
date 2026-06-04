@@ -1,11 +1,4 @@
-// ============================================================
-// 🛡️  PHISHING DETECTOR — background.js
-//     This is the "brain" of the extension.
-//     It runs in the background and connects content.js ↔ server.
-//
-//     No popup.html needed — clicking the extension icon
-//     directly toggles the result panel inside Gmail.
-// ============================================================
+
 
 const SERVER = "http://localhost:5000";
 

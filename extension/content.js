@@ -1,8 +1,4 @@
-// ============================================================
-// 🛡️  PHISHING DETECTOR — content.js
-//     Runs inside Gmail automatically.
-//     Scans every email you open and shows a result panel.
-// ============================================================
+
 
 let lastHash      = "";   // remembers last scanned email to avoid re-scanning
 let scanRunning   = false; // prevents two scans at the same time

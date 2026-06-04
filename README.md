@@ -13,7 +13,7 @@ in .env add api key like this:
      GOOGLE_API_KEY=Your_API_Key
      VIRUSTOTAL_API_KEY=Your_API_Key
 
-now open chrome 
+ now open chrome 
     1. go to chrome://extensions/
     2. Load unpacked
     3. now is ready just go to mail.com and it will automatically scan mail
@@ -23,9 +23,9 @@ while scanning make sure everthing is running like that press f12 and go to cons
 ![alt text](image-3.png)
 
 also check in vs code is there Google Safe browsimg & Virustotal is active 
-![alt text](image.png)
+![alt text](image-2.png)
 
 here is how it will show output
-![alt text](image-2.png)
+![alt text](image.png)
 
 

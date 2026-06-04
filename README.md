@@ -13,10 +13,11 @@ in .env add api key like this:
      GOOGLE_API_KEY=Your_API_Key
      VIRUSTOTAL_API_KEY=Your_API_Key
 
- now open chrome 
+ now open chrome
+
     1. go to chrome://extensions/
     2. Load unpacked
-    3. now is ready just go to mail.com and it will automatically scan mail
+    3. now extension is ready just go to mail.com and it will automatically scan mail
 
    
 while scanning make sure everthing is running like that press f12 and go to console
